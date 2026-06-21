@@ -8,6 +8,7 @@ A fully offline AI learning platform featuring:
 - Voice interaction
 
 Built with React, FastAPI, ChromaDB, Whisper, Piper, and local LLMs.
+
 ---
 
 ## Modes
