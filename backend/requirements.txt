@@ -1,0 +1,12 @@
+faster-whisper
+requests
+numpy
+fastapi
+uvicorn
+websockets
+python-multipart
+python-socketio
+jinja2
+aiofiles
+scipy
+sounddevice

@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.pytest_cache/
+
+# Generated output
+backend/output/
+backend/rag_eval_log.jsonl
+backend/rag_ratings.jsonl
+llama_server.log
+
+# Vector store + ingestion markers (auto-created at runtime)
+knowledge/chroma_db/
+knowledge/processed/
+knowledge/chunks/
+
+# Piper binary + data (pre-built, not source)
+backend/piper/
+
+# Models (large binary weights)
+*.gguf
+models/
+
+# Virtual environment
+venv/
+.venv/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
