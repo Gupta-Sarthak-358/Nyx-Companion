@@ -1,7 +1,13 @@
-# Nyx-Companion
+# Nyx Companion
 
-Multi-mode conversational AI with voice, RAG knowledge base, MCQ practice mode, and personality-driven assistant. Fully offline — no cloud dependencies.
+A fully offline AI learning platform featuring:
+- Conversational AI Assistant
+- RAG-powered tutoring
+- Adaptive MCQ practice
+- AI interview simulation
+- Voice interaction
 
+Built with React, FastAPI, ChromaDB, Whisper, Piper, and local LLMs.
 ---
 
 ## Modes
